@@ -17,7 +17,6 @@ The model is trained using a **Random Forest Classifier** and achieves good accu
 - [Folder Structure](#folder-structure)  
 - [Contributing](#contributing)  
 - [License](#license)  
-- [Authors](#authors)  
 
 ---
 
@@ -156,13 +155,3 @@ Contributions are welcome!
 ## 📜 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgements
-
-* Scikit-learn for Random Forest implementation
-* Pandas & Numpy for preprocessing
-* Dataset providers for making ASD-related datasets available for research
-ke me to also generate a **`requirements.txt`** file (with sklearn, pandas, numpy, etc.) so your repo is plug-and-play for anyone cloning it?
-```
